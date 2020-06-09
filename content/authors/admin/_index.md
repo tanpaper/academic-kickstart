@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 谭贤超
+title: tanxianchao
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name:湖南城市学院
+- name:Hunan city University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
