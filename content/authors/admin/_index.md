@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 谭贤超
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name:湖南城市学院
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
